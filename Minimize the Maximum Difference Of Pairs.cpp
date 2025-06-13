@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public:
     // Helper function to check if we can make at least 'p' non-overlapping adjacent pairs
     // where the difference between elements in a pair is <= 'maxDiff'
